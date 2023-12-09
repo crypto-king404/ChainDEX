@@ -1,4 +1,4 @@
-# ChainDEX ![ChainDEX Logo](packages/react-app/src/assets/ChainDEX_logo.png)
+# ![ChainDEX Logo](packages/react-app/src/assets/ChainDEX_logo.png) ChainDEX 
 
  App : https://chaindex-exchange.netlify.app/
 

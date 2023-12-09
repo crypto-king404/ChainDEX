@@ -1,0 +1,1 @@
+{"name":"DEX2","version":"0.0.1","main":"DEX2.js","dependencies":{"solc":"*","web3":"^1.0.0","@cranq/runtime":"*"},"scripts":{"start":"node DEX2.js"}}

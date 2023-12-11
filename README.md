@@ -2,7 +2,7 @@
 
  App : https://chaindex-exchange.netlify.app/
 
- A Web 3.0 Cryptocurrency Decentralized Exchange made using HTML, CSS and JavaScript
+ A Web 3.0 Cryptocurrency Decentralized Exchange made using HTML, Tailwind CSS and JavaScript
 
  ![Application Interface](Images/FINTECH.png)
 
